@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-<img src="imagenes/chika_baile.gif" width="45%" alt="Chika bailando">
+<img src="imagenes/baile.gif" width="60%" alt="Zero Two bailando entre luces de neón">
 <br><b>Yo cuando mi código funciona a la primera ✿</b>
 <br><a href="https://nasa-cell.github.io/PAGINA-DONDE-MUESTRA-LOS-LINKS-DE-MI-PROYECTOS-/"><b>Ver la página con todos mis proyectos</b></a>
 </p>
