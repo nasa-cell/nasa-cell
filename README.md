@@ -75,30 +75,30 @@
 ### 🤖 Apps con inteligencia artificial
 
 <p align="center">
-<a href="https://github.com/nasa-cell/el-resumidor-pdf-"><img src="imagenes/p_resumidor.svg" width="49%" alt="Resumidor de PDF"></a>
-<a href="https://github.com/nasa-cell/ingles-a-espa-ol-mediante-audio"><img src="imagenes/p_traductor.svg" width="49%" alt="Traductor por voz"></a>
-<a href="https://github.com/nasa-cell/flores-iris"><img src="imagenes/p_iris.svg" width="49%" alt="Clasificador de flores Iris"></a>
-<a href="https://github.com/nasa-cell/FINANZAS"><img src="imagenes/p_finanzas.svg" width="49%" alt="Predicción financiera"></a>
+<a href="https://github.com/nasa-cell/el-resumidor-pdf-"><img src="imagenes/p_resumidor.svg" width="32%" alt="Resumidor de PDF"></a>
+<a href="https://github.com/nasa-cell/ingles-a-espa-ol-mediante-audio"><img src="imagenes/p_traductor.svg" width="32%" alt="Traductor por voz"></a>
+<a href="https://github.com/nasa-cell/flores-iris"><img src="imagenes/p_iris.svg" width="32%" alt="Clasificador de flores Iris"></a>
+<a href="https://github.com/nasa-cell/FINANZAS"><img src="imagenes/p_finanzas.svg" width="32%" alt="Predicción financiera"></a>
 </p>
 
 ### 🎮 Juegos educativos
 
 <p align="center">
-<a href="https://nasa-cell.github.io/fracciones/"><img src="imagenes/p_fracciones.svg" width="49%" alt="Fracciones Master: jugar"></a>
-<a href="https://nasa-cell.github.io/juego-de-la-multiplicaci-n/"><img src="imagenes/p_multiplicacion.svg" width="49%" alt="Juego de la multiplicación: jugar"></a>
-<a href="https://nasa-cell.github.io/suma-y-resta-juego-educativo/"><img src="imagenes/p_tesoro.svg" width="49%" alt="Desafío del Tesoro Dorado: jugar"></a>
-<a href="https://nasa-cell.github.io/la-independencia-del-peru-juego-/"><img src="imagenes/p_independencia.svg" width="49%" alt="Hatun Aventuras Heroicas: jugar"></a>
-<a href="https://nasa-cell.github.io/geometr-a-de-las-figuras/"><img src="imagenes/p_geometria.svg" width="49%" alt="Geometría de las figuras: jugar"></a>
-<a href="https://nasa-cell.github.io/pupiletras-pogreso/"><img src="imagenes/p_sopa.svg" width="49%" alt="Sopa de letras educativa: ver"></a>
-<a href="https://nasa-cell.github.io/departamentos-del-peru/"><img src="imagenes/p_departamentos.svg" width="49%" alt="Departamentos del Perú: jugar"></a>
-<a href="https://github.com/nasa-cell/porcentaje-juego-educativo-"><img src="imagenes/p_porcentajes.svg" width="49%" alt="Tienda Matemática"></a>
+<a href="https://nasa-cell.github.io/fracciones/"><img src="imagenes/p_fracciones.svg" width="32%" alt="Fracciones Master: jugar"></a>
+<a href="https://nasa-cell.github.io/juego-de-la-multiplicaci-n/"><img src="imagenes/p_multiplicacion.svg" width="32%" alt="Juego de la multiplicación: jugar"></a>
+<a href="https://nasa-cell.github.io/suma-y-resta-juego-educativo/"><img src="imagenes/p_tesoro.svg" width="32%" alt="Desafío del Tesoro Dorado: jugar"></a>
+<a href="https://nasa-cell.github.io/la-independencia-del-peru-juego-/"><img src="imagenes/p_independencia.svg" width="32%" alt="Hatun Aventuras Heroicas: jugar"></a>
+<a href="https://nasa-cell.github.io/geometr-a-de-las-figuras/"><img src="imagenes/p_geometria.svg" width="32%" alt="Geometría de las figuras: jugar"></a>
+<a href="https://nasa-cell.github.io/pupiletras-pogreso/"><img src="imagenes/p_sopa.svg" width="32%" alt="Sopa de letras educativa: ver"></a>
+<a href="https://nasa-cell.github.io/departamentos-del-peru/"><img src="imagenes/p_departamentos.svg" width="32%" alt="Departamentos del Perú: jugar"></a>
+<a href="https://github.com/nasa-cell/porcentaje-juego-educativo-"><img src="imagenes/p_porcentajes.svg" width="32%" alt="Tienda Matemática"></a>
 </p>
 
 ### 🎀 Sistemas y tiendas
 
 <p align="center">
-<a href="https://github.com/nasa-cell/sistema-de-reportes"><img src="imagenes/p_reportes.svg" width="49%" alt="Sistema de reportes"></a>
-<a href="https://nasa-cell.github.io/Tienda-perritos/"><img src="imagenes/p_perritos.svg" width="49%" alt="Tienda de perritos: ver tienda"></a>
+<a href="https://github.com/nasa-cell/sistema-de-reportes"><img src="imagenes/p_reportes.svg" width="32%" alt="Sistema de reportes"></a>
+<a href="https://nasa-cell.github.io/Tienda-perritos/"><img src="imagenes/p_perritos.svg" width="32%" alt="Tienda de perritos: ver tienda"></a>
 </p>
 
 <p align="center">
