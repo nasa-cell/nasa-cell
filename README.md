@@ -57,17 +57,17 @@
 
 <a href="https://presentacion-56.onrender.com"><img src="imagenes/destacado.svg" width="100%" alt="Proyecto destacado: Conexiones. Presentaciones que controlas desde el celular, en tiempo real"></a>
 
+<img src="imagenes/conexiones_info.svg" width="100%" alt="Qué hace Conexiones: control remoto con botones, voz y QR; escribir en vivo con animaciones; frase final y avance automático; editar imágenes (tamaño, posición y unir); documentos PDF, Word, Excel y PowerPoint; música y video, también YouTube; 4 guardianes para muchos usuarios; PIN cifrado y espacio propio; probado con 400 usuarios.">
+
 <table>
 <tr>
-<td width="58%" valign="top">
-<img src="imagenes/conexiones_info.svg" width="100%" alt="Manejas las diapositivas desde el celular. Subes un PDF, Word, Excel o PowerPoint y cada página se vuelve una diapositiva. Cuentas con PIN cifrado. Aguanta 400 usuarios a la vez. Node.js, Docker y Postgres en Render.">
-<p align="center"><a href="https://presentacion-56.onrender.com"><img src="imagenes/boton_abrir.svg" width="48%" alt="Abrir Conexiones"></a> <a href="https://github.com/quintillizasyuesugui-svg/presentacion-56"><img src="imagenes/boton_codigo.svg" width="48%" alt="Ver el código"></a></p>
-<p align="center">La primera vez puede tardar un minuto en abrir porque el servidor gratis se despierta.</p>
-</td>
-<td width="42%" align="center" valign="top">
+<td width="30%" align="center" valign="middle">
 <img src="imagenes/quintillizas.gif" width="100%" alt="Las cinco quintillizas Nakano juntas">
-<a href="https://github.com/quintillizasyuesugui-svg"><img src="imagenes/colega.svg" width="100%" alt="Hecho con mi colega, fan de Las quintillizas"></a>
-<br><b><a href="https://github.com/quintillizasyuesugui-svg">@quintillizasyuesugui-svg</a></b>
+</td>
+<td width="70%" align="center" valign="middle">
+<a href="https://presentacion-56.onrender.com"><img src="imagenes/boton_abrir.svg" width="48%" alt="Abrir Conexiones"></a> <a href="https://github.com/quintillizasyuesugui-svg/presentacion-56"><img src="imagenes/boton_codigo.svg" width="48%" alt="Ver el código"></a>
+<br><a href="https://github.com/quintillizasyuesugui-svg"><img src="imagenes/colega.svg" width="60%" alt="Hecho con mi colega, fan de Las quintillizas"></a>
+<br>Con <a href="https://github.com/quintillizasyuesugui-svg">@quintillizasyuesugui-svg</a>. La primera vez tarda un minuto en abrir (servidor gratis).
 </td>
 </tr>
 </table>
